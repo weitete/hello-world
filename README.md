@@ -1,2 +1,1 @@
-# hello-world
-My first git repository!20160224
+I'm a java programmer and a newbie of java web!
